@@ -1,7 +1,12 @@
 ## Como cadastrar gestor
 
 Ao acessar o sistema, clique no **menu principal** (botão no canto superior esquerdo) e selecione **“Gerenciar usuários”**.  
+
+<img width="319" height="725" alt="image" src="https://github.com/user-attachments/assets/735172f4-c58d-40c3-bb23-a2ce06f34180" />
+
 Você será redirecionado para uma nova tela. Nela, clique em **“Novo usuário”** (botão no canto superior direito).
+
+<img width="1295" height="124" alt="image" src="https://github.com/user-attachments/assets/adc02467-82ba-41a3-826c-7691068418c5" />
 
 Serão exibidas três opções:
 
@@ -15,6 +20,8 @@ Para ser gestor, é necessário **ser selecionado pela administração da Karu**
 ---
 
 ## Como cadastrar profissional
+
+<img width="280" height="212" alt="image" src="https://github.com/user-attachments/assets/a10ab368-04ae-42d0-8072-e21d25141176" />
 
 Na opção **“Novo usuário”**, selecione **“Novo profissional”**.  
 Preencha os seguintes dados:
@@ -38,6 +45,8 @@ Após criar a conta, **repasse a senha temporária ao profissional**, que dever�
 ## Como cadastrar responsáveis
 
 Ainda na opção **“Novo usuário”**, selecione **“Novo responsável”** e preencha:
+
+<img width="280" height="212" alt="image" src="https://github.com/user-attachments/assets/29d16e38-cc00-4804-b857-66112640f9a3" />
 
 - Nome completo  
 - CPF  
