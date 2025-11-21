@@ -61,9 +61,9 @@ Após criar a conta, **entregue a senha temporária ao responsável**, para que 
 
 ## Como editar um usuário
 
-Na aba **“Gerenciar usuários”**, utilize o filtro de busca preenchendo:
-
 <img width="303" height="95" alt="image" src="https://github.com/user-attachments/assets/cccc68ca-d8e5-4532-8f12-11e41a843319" />
+
+Na aba **“Gerenciar usuários”**, utilize o filtro de busca preenchendo:
 
 - Nome  
 - CPF  
