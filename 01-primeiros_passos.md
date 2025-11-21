@@ -28,7 +28,9 @@ Ao clicar nele, você deverá preencher:
 - Seu **número de telefone**  
 - Sua **nova senha**, que deverá ser confirmada ao lado
 
-<img width="946" height="578" alt="Image" src="https://github.com/user-attachments/assets/d217a016-07df-4792-a292-e88260b2cd45" />
+
+<img width="978" height="630" alt="image" src="https://github.com/user-attachments/assets/1823d073-b8cf-4ce8-96a7-fba1d5eafa43" />
+
 
 Após isso, clique no botão **“Alterar senha”**.  
 Você será redirecionado novamente para a tela **“Acessar Sistema”**, onde poderá fazer login usando sua nova senha.
