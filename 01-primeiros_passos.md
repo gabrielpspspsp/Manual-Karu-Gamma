@@ -2,6 +2,7 @@
 
 Para acessar o site da **Karu**, ao entrar na página inicial você deve clicar no botão **“Acessar Sistema”**.  
 <img width="600" height="277" alt="Image" src="https://github.com/user-attachments/assets/581f12aa-fdcc-4361-9178-0945af6dfeb3" />
+
 Em seguida, faça o **login** na sua conta.
 ## Como criar minha conta?
 
