@@ -77,7 +77,7 @@ Depois, clique nos **três pontos verticais** à direita da ficha. Você verá t
 - **Ver detalhes** (mostra informações completas da conta)  
 - **Editar usuário**  
 - **Desativar**
-- 
+
 <img width="275" height="178" alt="image" src="https://github.com/user-attachments/assets/9ba9e352-ea28-4f10-b5c2-a5a4365464e1" />
 
 Selecione **“Editar usuário”** para modificar as informações necessárias (exceto **CPF** e **senha**).  
