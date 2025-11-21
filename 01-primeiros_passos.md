@@ -15,6 +15,7 @@ Com a conta criada, volte ao site da Karu e clique na opção **“Acessar Siste
 
 Em seguida, insira seu **CPF** e sua **senha** para fazer login e acessar todas as funções disponíveis.
 
+<img width="435" height="698" alt="Image" src="https://github.com/user-attachments/assets/e624113e-6ae3-498b-9fc9-b7eaa2480ccc" />
 ---
 
 ## Como recuperar a senha
