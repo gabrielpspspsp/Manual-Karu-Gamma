@@ -63,9 +63,13 @@ Após criar a conta, **entregue a senha temporária ao responsável**, para que 
 
 Na aba **“Gerenciar usuários”**, utilize o filtro de busca preenchendo:
 
+<img width="303" height="95" alt="image" src="https://github.com/user-attachments/assets/cccc68ca-d8e5-4532-8f12-11e41a843319" />
+
 - Nome  
 - CPF  
 - Tipo de usuário (gestor, profissional ou responsável)
+
+<img width="1301" height="437" alt="image" src="https://github.com/user-attachments/assets/86d89bf1-a5f2-4ad7-a44e-99b7fe145c88" />
 
 Clique na **lupa** para localizar o usuário.  
 Depois, clique nos **três pontos verticais** à direita da ficha. Você verá três opções:
@@ -73,16 +77,26 @@ Depois, clique nos **três pontos verticais** à direita da ficha. Você verá t
 - **Ver detalhes** (mostra informações completas da conta)  
 - **Editar usuário**  
 - **Desativar**
+- 
+<img width="275" height="178" alt="image" src="https://github.com/user-attachments/assets/9ba9e352-ea28-4f10-b5c2-a5a4365464e1" />
 
 Selecione **“Editar usuário”** para modificar as informações necessárias (exceto **CPF** e **senha**).  
 Exemplo: se o usuário mudou de e-mail, basta alterar o campo correspondente.
+
+<img width="892" height="655" alt="image" src="https://github.com/user-attachments/assets/24a01455-f6b4-4406-9470-9d987873d73e" />
+
 
 ---
 
 ## Como remover um usuário
 
 Nos três pontos verticais, selecione **“Desativar”**.  
+<img width="204" height="127" alt="image" src="https://github.com/user-attachments/assets/5847bbcb-087b-48d0-a2f5-88c59b7acfb6" />
+
 O sistema perguntará se você realmente deseja desativar o usuário.
 
 - Clique em **“Cancelar”** para voltar.  
 - Clique em **“Sim, desativar”** para tornar o usuário inativo.
+
+<img width="520" height="233" alt="image" src="https://github.com/user-attachments/assets/2596a161-ae7f-4f80-b3e5-5fa0d69f26c9" />
+
